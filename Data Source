@@ -1,0 +1,9 @@
+import kagglehub
+
+# Download latest version
+path = kagglehub.dataset_download("abdulmalik1518/mobiles-dataset-2025")
+
+print("Path to dataset files:", path)
+
+Or you can also download by clicking following link (Kaggle)
+https://www.kaggle.com/datasets/abdulmalik1518/mobiles-dataset-2025/data
